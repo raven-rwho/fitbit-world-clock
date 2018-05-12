@@ -1,0 +1,21 @@
+{
+  "fitbit": {
+    "appUUID": "2c44d584-66db-449d-a53b-c3ddf32ae6c4",
+    "appType": "app",
+    "appDisplayName": "world-clock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#2196f3",
+    "requestedPermissions": [
+      "access_internet",
+      "access_location"
+    ],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en": {
+        "name": "world-clock"
+      }
+    }
+  }
+}
